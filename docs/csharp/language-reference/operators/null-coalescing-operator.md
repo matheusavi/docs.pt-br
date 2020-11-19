@@ -18,7 +18,7 @@ ms.contentlocale: pt-BR
 ms.lasthandoff: 08/30/2020
 ms.locfileid: "89118280"
 ---
-# <a name="-and--operators-c-reference"></a>?? e?? = Operators (referência C#)
+# <a name="-and--operators-c-reference"></a>Operadores ?? e ??= (referência do C#)
 
 O operador de coalescência nula `??` retornará o valor do operando esquerdo se não for `null`; caso contrário, ele avaliará o operando direito e retornará seu resultado. O operador `??` não avaliará o operando do lado direito se o operando esquerdo for avaliado como não nulo.
 
